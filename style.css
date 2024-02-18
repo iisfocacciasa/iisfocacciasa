@@ -1,0 +1,82 @@
+#style-card {
+
+background: white;
+width:500px;
+height:330px;
+
+}
+
+#page-title {
+
+    margin-top: 200px;
+    position: relative;
+    top:15%;
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: normal;
+    text-align: center;
+
+}
+
+#submit {
+
+    background: blue;
+    border: 1px solid blue;
+    margin-top: 20px;
+    width: 408px;
+    height:30px;
+    margin-left: 9%;
+    margin-top: 3%;
+
+}
+
+#title {
+
+    color:white;
+    position: absolute;
+    top:-40%;
+    left:7.1%;
+    
+}
+
+#email {
+
+    width: 400px;
+    height:30px;
+    margin-left: 9%;
+    
+}
+
+#password {
+
+    width: 400px;
+    height:30px;
+    margin-left: 9%;
+    
+}
+
+#par {
+
+    font-size: small;
+    position: relative;
+    color: blue;
+    margin-left: 64%;
+
+}
+
+#l1 {
+
+    font-size: small;
+    position: relative;
+    margin-left: 8.5%;
+
+}
+
+#l2 {
+
+    font-size: small;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 8.5%;
+    
+}
