@@ -1,0 +1,23 @@
+<style>
+
+#player-bottom {
+
+   background:purple;
+   color:black;
+}   
+
+
+.user-username-component user-username-white.user-tagline-username {
+
+color:black;
+
+}
+
+
+user-tagline-rating user-tagline-white {
+
+color:black;
+
+}
+    
+</style>
